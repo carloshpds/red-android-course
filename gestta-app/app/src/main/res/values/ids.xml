@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="activity_login_input_user" type="id"></item>
+    <item name="activity_login_logo_image" type="id"></item>
+    <item name="activity_login_password_input" type="id"></item>
+    <item name="activity_login_login_button" type="id"></item>
+    <item name="activity_login_forgot_password_button" type="id"></item>
+
+
+    <item name="activity_forgot_pass_input" type="id"></item>
+    <item name="activity_forgot_pass_send_button" type="id"></item>
+
+    <item name="activity_main_tabs" type="id"></item>
+
+
+
+
+
+    <item name="visible" type="id"></item>
+    <item name="masked" type="id"></item>
+</resources>
